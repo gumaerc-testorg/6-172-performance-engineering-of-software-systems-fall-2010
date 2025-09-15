@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: fea622043fe52c79cc89714843a86204
 file: null
+file_size: null
 inline_embed_id: 57694076lecture21:quiz2review11366885
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

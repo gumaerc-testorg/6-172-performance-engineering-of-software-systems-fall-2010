@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: aa17d40343bc809e8364309c8f39a189
 file: null
+file_size: null
 inline_embed_id: 11306234lecture16:synchronizingwithoutlocks53713649
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

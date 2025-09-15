@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 14736c6582bd7aaa822eca6500c45fdf
 file: null
+file_size: null
 inline_embed_id: 67869803lecture2:bithacks74818925
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

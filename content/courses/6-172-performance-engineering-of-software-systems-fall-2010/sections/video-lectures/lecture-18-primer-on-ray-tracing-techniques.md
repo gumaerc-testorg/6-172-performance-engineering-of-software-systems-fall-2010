@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 1f442b919f231eb3b96b071a03aade14
 file: null
+file_size: null
 inline_embed_id: 65588380lecture18:primeronraytracingtechniques39719517
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

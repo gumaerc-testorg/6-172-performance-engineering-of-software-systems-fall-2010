@@ -63,6 +63,7 @@ embedded_media:
   type: Transcript
   uid: c48d7a041f40057d3b93b9458e276f5a
 file: null
+file_size: null
 inline_embed_id: 96899705lecture22:ataleof10bugs:performanceengineeringatvmware17805332
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

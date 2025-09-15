@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 3c447314805c598cf6f9a5a9e4a357d0
 file: null
+file_size: null
 inline_embed_id: 35419402lecture20:distributedsystems60129495
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

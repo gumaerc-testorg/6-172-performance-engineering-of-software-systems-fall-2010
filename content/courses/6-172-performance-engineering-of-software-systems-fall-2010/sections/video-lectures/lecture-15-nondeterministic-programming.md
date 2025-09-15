@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: 74abee574f555371baab0c51e0e70548
 file: null
+file_size: null
 inline_embed_id: 34077494lecture15:nondeterministicprogramming69544271
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

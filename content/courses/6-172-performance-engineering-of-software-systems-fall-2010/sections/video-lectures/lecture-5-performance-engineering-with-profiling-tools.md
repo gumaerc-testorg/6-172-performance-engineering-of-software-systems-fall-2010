@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: be44a7fd975ef1aad5e99946a0a0eb57
 file: null
+file_size: null
 inline_embed_id: 64249842lecture5:performanceengineeringwithprofilingtools39253841
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

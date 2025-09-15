@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 3e2eb14c98643f3b107cd80031b8372e
 file: null
+file_size: null
 inline_embed_id: 24075555lecture11:whatcompilerscanandcannotdo38243619
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

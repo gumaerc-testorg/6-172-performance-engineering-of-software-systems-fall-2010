@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 4dcda22235a8284f722cf9d88995c9c8
 file: null
+file_size: null
 inline_embed_id: 1367447lecture12:multicoreprogramming35260933
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

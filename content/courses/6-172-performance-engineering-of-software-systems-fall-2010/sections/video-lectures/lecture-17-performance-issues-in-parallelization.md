@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 9866d130aff2c579183c66a6073b4e65
 file: null
+file_size: null
 inline_embed_id: 9362944lecture17:performanceissuesinparallelization91659756
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

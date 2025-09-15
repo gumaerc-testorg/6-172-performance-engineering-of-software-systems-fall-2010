@@ -66,6 +66,7 @@ embedded_media:
   type: Transcript
   uid: cd282be2d02ee39d22fb3c2e74ed7f61
 file: null
+file_size: null
 inline_embed_id: 47789943lecture9:cache-efficientalgorithmsii68844982
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

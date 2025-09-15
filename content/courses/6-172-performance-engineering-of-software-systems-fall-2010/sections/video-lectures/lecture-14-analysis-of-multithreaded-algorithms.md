@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 5623d5fa8cb2a0d3b3ff184f4419331c
 file: null
+file_size: null
 inline_embed_id: 93956577lecture14:analysisofmultithreadedalgorithms68697711
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

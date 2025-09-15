@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 60f0266874550985bfa95b77d6f4b79f
 file: null
+file_size: null
 inline_embed_id: 59955591lecture1:matrixmultiply:acasestudy63330951
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

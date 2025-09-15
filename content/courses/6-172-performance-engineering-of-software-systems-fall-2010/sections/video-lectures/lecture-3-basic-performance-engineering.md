@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: 0420832bfa5cc67973ce847e5bf0573a
 file: null
+file_size: null
 inline_embed_id: 91056779lecture3:basicperformanceengineering78737068
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

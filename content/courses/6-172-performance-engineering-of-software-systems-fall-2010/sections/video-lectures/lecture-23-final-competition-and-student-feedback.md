@@ -59,6 +59,7 @@ embedded_media:
   type: Transcript
   uid: f31794c8ad7f22b1ea09b052e475a145
 file: null
+file_size: null
 inline_embed_id: 34107772lecture23:finalcompetitionandstudentfeedback28881461
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

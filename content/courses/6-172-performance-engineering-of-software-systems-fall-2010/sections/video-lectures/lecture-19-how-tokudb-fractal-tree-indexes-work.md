@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: d9af39005c80a8551e091ef418a7394f
 file: null
+file_size: null
 inline_embed_id: 6985284lecture19:howtokudbfractaltreeindexeswork7727323
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: 9829ec3b5850a97b0a2c0442fc4f77c1
 file: null
+file_size: null
 inline_embed_id: 35448536lecture7:memorysystemsandperformanceengineering62118571
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: 36830f614fca7427ac9325eb1de730b1
 file: null
+file_size: null
 inline_embed_id: 59916963lecture10:dynamicstorageallocation50533877
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

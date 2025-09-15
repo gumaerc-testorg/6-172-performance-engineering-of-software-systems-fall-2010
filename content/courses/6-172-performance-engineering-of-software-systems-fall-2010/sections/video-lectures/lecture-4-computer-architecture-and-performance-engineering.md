@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: 1cf5bfd4b16490420c2ebb49045264b0
 file: null
+file_size: null
 inline_embed_id: 56367458lecture4:computerarchitectureandperformanceengineering83908921
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

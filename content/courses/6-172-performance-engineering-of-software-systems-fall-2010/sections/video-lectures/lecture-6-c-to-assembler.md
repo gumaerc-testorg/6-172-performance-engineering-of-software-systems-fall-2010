@@ -65,6 +65,7 @@ embedded_media:
   type: Transcript
   uid: 623d584dafb362c009b94abc233cd75f
 file: null
+file_size: null
 inline_embed_id: 13374244lecture6:ctoassembler58662008
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

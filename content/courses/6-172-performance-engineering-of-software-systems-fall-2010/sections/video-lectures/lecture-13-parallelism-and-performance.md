@@ -64,6 +64,7 @@ embedded_media:
   type: Transcript
   uid: f4a0bae7d7abbecde1a7d56ba1b1f1ab
 file: null
+file_size: null
 inline_embed_id: 94829505lecture13:parallelismandperformance37123114
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

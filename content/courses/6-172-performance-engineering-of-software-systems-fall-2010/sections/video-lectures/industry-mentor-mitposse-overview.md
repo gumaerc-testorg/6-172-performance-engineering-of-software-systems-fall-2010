@@ -59,6 +59,7 @@ embedded_media:
   type: Transcript
   uid: 14fe0e0588642dec31054a693bedb1af
 file: null
+file_size: null
 inline_embed_id: 88220944industrymentor(mitposse)overview56458144
 layout: video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
