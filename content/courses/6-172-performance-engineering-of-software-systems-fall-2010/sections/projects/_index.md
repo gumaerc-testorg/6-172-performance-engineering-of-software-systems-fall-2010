@@ -11,7 +11,7 @@ title: Projects
 uid: 594533c8-2457-19ba-c070-03c4a6cf05e8
 ---
 
-These projects require [GCC](http://gcc.gnu.org/) (or another C++ compiler), [GNU](http://www.gnu.org/software/make/) Make, and the [Intel Cilk++](http://software.intel.com/en-us/articles/intel-cilk/) compiler, all of which are freely available. Some projects also require [Intel VTune](http://software.intel.com/en-us/intel-vtune/), which must be purchased.
+These projects require {{% resource_link "5027fb48-0ef6-41c4-90b0-a21c33f1a9ef" "GCC" %}} (or another C++ compiler), {{% resource_link "aa225989-5544-433b-9d9b-19ef1523b772" "GNU" %}} Make, and the {{% resource_link "77ad750e-9a80-4c7d-b290-5a0f61aa2f13" "Intel Cilk++" %}} compiler, all of which are freely available. Some projects also require {{% resource_link "5eab41e3-ed0a-48be-bfd7-bdf4618b8afd" "Intel VTune" %}}, which must be purchased.
 
 [Project Descriptions]({{% getpage "courses/6-172-performance-engineering-of-software-systems-fall-2010/sections/projects/project-descriptions" %}})
 

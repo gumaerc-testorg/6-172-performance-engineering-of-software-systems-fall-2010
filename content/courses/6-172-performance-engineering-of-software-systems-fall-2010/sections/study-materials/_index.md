@@ -21,23 +21,23 @@ C++: The Good, Bad, and Ugly ([PDF]({{% getpage "courses/6-172-performance-engin
 Readings
 --------
 
-Demaine, Erik. "[Cache-Oblivious Algorithms and Data Structures](http://erikdemaine.org/papers/BRICS2002/)." Lecture Notes from the EEF Summer School on Massive Data Sets, 2002.
+Demaine, Erik. "{{% resource_link "fdd2bb21-d417-489d-9ee6-cd43284aeffe" "Cache-Oblivious Algorithms and Data Structures" %}}." Lecture Notes from the EEF Summer School on Massive Data Sets, 2002.
 
-Frigo, Matteo, Charles Leiserson, Harald Prokop, and Sridhar Ramachandran. "Cache-Oblivious Algorithms." Proceedings of the 40th Annual Symposium on Foundations of Computer Science, 1999. ([PDF](http://www.brics.dk/~large/ioS05/FLPR.pdf))
+Frigo, Matteo, Charles Leiserson, Harald Prokop, and Sridhar Ramachandran. "Cache-Oblivious Algorithms." Proceedings of the 40th Annual Symposium on Foundations of Computer Science, 1999. ({{% resource_link "da7a6f24-376b-4efe-b098-2839dffc4884" "PDF" %}})
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262033844/ref=nosim/mitopencourse-20) Cormen, Thomas, Charles Leiserson, et al. "Multithreaded Algorithms." Chapter 27 in _Introduction to Algorithms_. 3rd ed. MIT Press, 2009, pp. 772–812. ISBN: 9780262033848. \[Preview with [Google Books](http://books.google.com/books?id=NLngYyWFl_YC&printsec=frontcover&dq=Introduction+to+Algorithms&hl=en&ei=rBDOTvvWCsbKrAemvOziDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDoQ6AEwAA#v=onepage&q=Introduction%20to%20Algorithms&f=false)\]
+{{% resource_link "f9ee36fb-6284-4c8b-a8ff-ea3558e43afa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} {{% resource_link "4d2e6970-53fe-430d-bb32-c519d1f73298" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Cormen, Thomas, Charles Leiserson, et al. "Multithreaded Algorithms." Chapter 27 in _Introduction to Algorithms_. 3rd ed. MIT Press, 2009, pp. 772–812. ISBN: 9780262033848. \[Preview with {{% resource_link "b4c5a44e-3306-4bce-b10b-7e691b5b5e4a" "Google Books" %}}\]
 
-Frigo, Matteo, Pablo Halpern, Charles Leiserson, and Stephen Lewin-Berlin. "Reducers and Other Cilk++ Hyperobjects." Proceedings of the 21st Annual Symposium on Parallelism in Algorithms and Architectures, 2009. ([PDF](http://www.fftw.org/~athena/papers/hyper.pdf))
+Frigo, Matteo, Pablo Halpern, Charles Leiserson, and Stephen Lewin-Berlin. "Reducers and Other Cilk++ Hyperobjects." Proceedings of the 21st Annual Symposium on Parallelism in Algorithms and Architectures, 2009. ({{% resource_link "4342117f-6840-451f-8ed0-3f245b8be328" "PDF" %}})
 
 References
 ----------
 
-Thomadakis, Michael. "The Architecture of the Nehalem Processor and Nehalem-EP SMP Platforms." ([PDF - 1.6MB](http://sc.tamu.edu/systems/eos/nehalem.pdf)) A technical overview of the Nehalem architecture features.
+Thomadakis, Michael. "The Architecture of the Nehalem Processor and Nehalem-EP SMP Platforms." ({{% resource_link "dbc41700-8131-4ee6-9f78-256c8bbc8354" "PDF - 1.6MB" %}}) A technical overview of the Nehalem architecture features.
 
-[Intel 64 and IA-32 Architectures Software Developer's Manuals](http://www.intel.com/products/processor/manuals/). For instruction set reference, see volumes 2A and 2B.
+{{% resource_link "3cd38f2f-2a63-408c-bbc1-c004d3e96630" "Intel 64 and IA-32 Architectures Software Developer's Manuals" %}}. For instruction set reference, see volumes 2A and 2B.
 
-[x86 Instruction Set Reference](http://www.felixcloutier.com/x86/). A table of x86 instructions linking to their detailed descriptions.
+{{% resource_link "a3104e63-5fca-4f6b-bc45-4f9adafcb7f1" "x86 Instruction Set Reference" %}}. A table of x86 instructions linking to their detailed descriptions.
 
-[The Git Community Book](http://git-scm.com/book). A comprehensive guide to using Git.
+{{% resource_link "dec8a099-ffb9-45cd-a515-9b26c6d4a4f2" "The Git Community Book" %}}. A comprehensive guide to using Git.
 
-Cilk++ Programmer's Guide ([PDF](http://www.clear.rice.edu/comp422/resources/Intel_Cilk++_Programmers_Guide.pdf))
+Cilk++ Programmer's Guide ({{% resource_link "b4994827-021b-4afe-9ca7-6eed1a5b8774" "PDF" %}})
