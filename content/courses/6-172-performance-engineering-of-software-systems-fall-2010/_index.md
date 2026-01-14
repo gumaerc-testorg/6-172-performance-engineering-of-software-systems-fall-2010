@@ -13,4 +13,4 @@ Modern computing platforms provide unprecedented amounts of raw computational po
 
 This class is a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, cache and memory hierarchy optimization, parallel programming, and building scalable distributed systems.
 
-The course also includes design reviews with industry mentors, as described in {{% resource_link "f0bab6b2-86ef-4395-a5de-c82f79341de2" "this MIT News article" %}}.
+The course also includes design reviews with industry mentors, as described in [this MIT News article](http://web.mit.edu/newsoffice/2010/teaching-programming-1028.html).
